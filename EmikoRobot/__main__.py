@@ -82,7 +82,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hai {} !*
+*Hai kontol {} !*
 ✪ I'm an management bot [✨](https://telegra.ph/file/9a82d8d5ea389e914c564.jpg)
 ────────────────────────
 × *Uptime:* `{}`
